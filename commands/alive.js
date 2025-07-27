@@ -36,7 +36,7 @@ async function aliveCommand(sock, chatId) {
 ├───────────────────
 `.trim();
 
-        const imageUrl = 'https://files.catbox.moe/8tuoqz.jpg';
+        const imageUrl = 'https://files.catbox.moe/l354bh.jpg';
         const imagePath = await downloadImage(imageUrl);
         
         const messageOptions = {
